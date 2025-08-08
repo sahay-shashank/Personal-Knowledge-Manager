@@ -1,3 +1,4 @@
 # Personal Knowledge Manager (PKM)
 
-A Second Brain with cli to edit, create and delete notes
+A Second Brain based on Zettelkasten as a command-line tool.
+
